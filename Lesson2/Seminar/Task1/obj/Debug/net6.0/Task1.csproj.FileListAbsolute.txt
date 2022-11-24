@@ -1,0 +1,15 @@
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson2/Seminar/Task1/bin/Debug/net6.0/Task1
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson2/Seminar/Task1/bin/Debug/net6.0/Task1.deps.json
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson2/Seminar/Task1/bin/Debug/net6.0/Task1.runtimeconfig.json
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson2/Seminar/Task1/bin/Debug/net6.0/Task1.dll
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson2/Seminar/Task1/bin/Debug/net6.0/ref/Task1.dll
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson2/Seminar/Task1/bin/Debug/net6.0/Task1.pdb
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson2/Seminar/Task1/obj/Debug/net6.0/Task1.csproj.AssemblyReference.cache
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson2/Seminar/Task1/obj/Debug/net6.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson2/Seminar/Task1/obj/Debug/net6.0/Task1.AssemblyInfoInputs.cache
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson2/Seminar/Task1/obj/Debug/net6.0/Task1.AssemblyInfo.cs
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson2/Seminar/Task1/obj/Debug/net6.0/Task1.csproj.CoreCompileInputs.cache
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson2/Seminar/Task1/obj/Debug/net6.0/Task1.dll
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson2/Seminar/Task1/obj/Debug/net6.0/ref/Task1.dll
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson2/Seminar/Task1/obj/Debug/net6.0/Task1.pdb
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson2/Seminar/Task1/obj/Debug/net6.0/Task1.genruntimeconfig.cache

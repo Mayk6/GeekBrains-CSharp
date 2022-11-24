@@ -1,0 +1,15 @@
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson1/Seminar/HomeWork/Task4/obj/Debug/net6.0/Task4.csproj.AssemblyReference.cache
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson1/Seminar/HomeWork/Task4/obj/Debug/net6.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson1/Seminar/HomeWork/Task4/obj/Debug/net6.0/Task4.AssemblyInfoInputs.cache
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson1/Seminar/HomeWork/Task4/obj/Debug/net6.0/Task4.AssemblyInfo.cs
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson1/Seminar/HomeWork/Task4/obj/Debug/net6.0/Task4.csproj.CoreCompileInputs.cache
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson1/Seminar/HomeWork/Task4/bin/Debug/net6.0/Task4
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson1/Seminar/HomeWork/Task4/bin/Debug/net6.0/Task4.deps.json
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson1/Seminar/HomeWork/Task4/bin/Debug/net6.0/Task4.runtimeconfig.json
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson1/Seminar/HomeWork/Task4/bin/Debug/net6.0/Task4.dll
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson1/Seminar/HomeWork/Task4/bin/Debug/net6.0/ref/Task4.dll
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson1/Seminar/HomeWork/Task4/bin/Debug/net6.0/Task4.pdb
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson1/Seminar/HomeWork/Task4/obj/Debug/net6.0/Task4.dll
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson1/Seminar/HomeWork/Task4/obj/Debug/net6.0/ref/Task4.dll
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson1/Seminar/HomeWork/Task4/obj/Debug/net6.0/Task4.pdb
+/home/ilya/Рабочий стол/Introductiontoprogramminglanguages/Lesson1/Seminar/HomeWork/Task4/obj/Debug/net6.0/Task4.genruntimeconfig.cache
